@@ -1,4 +1,4 @@
-# Cross Platform Browser Extension template repository
+# Eco Ops Checkin system cross Platform Browser Extension template repository
 
 React + TailwindCSS bundled with Vite.
 
